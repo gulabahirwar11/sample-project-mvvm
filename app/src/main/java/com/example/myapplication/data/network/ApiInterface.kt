@@ -8,5 +8,5 @@ import retrofit2.http.Url
 
 interface ApiInterface {
     @GET
-    fun getUpstoxItems(@Url url : String) : Single<UpstoxResponseEntity>
+    fun getUpstoxItems(@Url url: String) : Single<UpstoxResponseEntity>
 }
