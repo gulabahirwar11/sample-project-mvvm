@@ -7,6 +7,6 @@ import retrofit2.http.QueryMap
 import retrofit2.http.Url
 
 interface ApiInterface {
-    @GET
-    fun getUpstoxItems(@Url url: String) : Single<UpstoxResponseEntity>
+    @GET("v3/6d0ad460-f600-47a7-b973-4a779ebbaeaf")
+    fun getUpstoxItems() : Single<UpstoxResponseEntity>
 }
