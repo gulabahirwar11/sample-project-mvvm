@@ -3,4 +3,5 @@
     <dimen name="flickr_item_image_height">156dp</dimen>
     <dimen name="padding_8dp">8dp</dimen>
     <dimen name="text_size_h1">14sp</dimen>
+    <dimen name="flickr_item_image_width">156dp</dimen>
 </resources>
