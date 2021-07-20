@@ -10,7 +10,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.MyApplication">
-        <activity android:name=".flickr.feature.flickr.FlickrActivity">
+        <activity android:name=".flickr.feature.flickr.UpstoxActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

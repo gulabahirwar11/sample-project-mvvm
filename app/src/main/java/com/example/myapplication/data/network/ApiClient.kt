@@ -7,7 +7,7 @@ import retrofit2.adapter.rxjava2.RxJava2CallAdapterFactory
 import retrofit2.converter.gson.GsonConverterFactory
 
 object ApiFactory {
-    private const val BASE_URL = "https://www.flickr.com/"
+    private const val BASE_URL =  "https://run.mocky.io/v3/6d0ad460-f600-47a7-b973-4a779ebbaeaf"
     private  var INSTANCE : ApiInterface?= null
 
 
